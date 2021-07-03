@@ -1,3 +1,5 @@
+![plot](./Red_logo.png)
+
 # Donation details
 
 ## Info
