@@ -13,3 +13,5 @@ Thank you for your assistance in the development of Red.
 ## Donation details
 
 Bitcoin (₿): bc1qnw2700l88es65yv8j9gmtk8xt0mw09dxa7dyj8
+
+![plot](./Bitcoin.png)
