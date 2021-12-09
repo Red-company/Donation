@@ -1,6 +1,6 @@
 ![plot](./Red_logo.png)
 
-# Donation details (تفاصيل التبرع)
+# 💸 Donation details (تفاصيل التبرع)
 
 ## Our status:
 
