@@ -22,4 +22,4 @@ Thank you for your assistance in the development of Red.
 
 Bitcoin (₿): bc1qnw2700l88es65yv8j9gmtk8xt0mw09dxa7dyj8
 
-![plot](./Bitcoin.png)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/bc1qnw2700l88es65yv8j9gmtk8xt0mw09dxa7dyj8?showBalance=true)](https://en.cryptobadges.io/donate/bc1qnw2700l88es65yv8j9gmtk8xt0mw09dxa7dyj8)
