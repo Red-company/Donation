@@ -2,6 +2,8 @@
 
 # 💸 Donation details (تفاصيل التبرع)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF3F36&size=24&duration=4000&width=500&lines=Future+is+near+you.+++Just+wait.)](https://git.io/typing-svg)
+
 ## Our status:
 
 Now, we're just creating projects that will help us in the implementation of our _BIG PLAN_.<br/><br/>
