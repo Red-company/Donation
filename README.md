@@ -7,9 +7,9 @@
 Now, we're just creating projects that will help us in the implementation of our _BIG PLAN_.<br/><br/>
 Now, we're just making the _name_. Our _purpose_ is to _provide safety_ for people and organizations that will be _public_, <br/><br/>
 
--EASY (.سهل)- to understand,<br/>
--OPEN (.افتح)- for developers and<br/>
--SECURE (.يؤمن)- for everyone.<br/><br/>
+-_**EASY (.سهل)**_- to understand,<br/>
+-_**OPEN (.افتح)**_- for developers and<br/>
+-_**SECURE (.يؤمن)**_- for everyone.<br/><br/>
 
 Now, we're just starting working on our plan and _creating standards_ that will _help people_ being sure in their _data's safety_.<br/><br/>
 Now, if you're reading this, be sure, we will be _#1 provider of security_ in the future.<br/><br/>
