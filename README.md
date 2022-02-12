@@ -2,7 +2,7 @@
 
 # 💸 Donation details (تفاصيل التبرع)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF3F36&size=26&duration=3900&width=550&lines=Future+is+near+you.+++Just+wait.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF3F36&size=26&duration=4200&width=570&lines=Future+is+near+you.+++Just+wait.)](https://git.io/typing-svg)
 
 ## Our status:
 
