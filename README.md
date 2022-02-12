@@ -23,7 +23,7 @@ If you like _Red_ projects and interested in their improvements you can _help us
 
 At this page are presented donation details of _Red_.
 
-Thank you for your assistance in the development of _Red_.
+Thank you for your assistance in the development of _Red_.<br/><br/>
 
 ## Donation details:
 
